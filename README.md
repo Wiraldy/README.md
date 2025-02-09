@@ -10,3 +10,5 @@ a student at [Your University/Institution].
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manggalawiraldy/))
+
+https://img.shields.io/badge/:badgeContent
