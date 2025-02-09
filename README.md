@@ -1,6 +1,6 @@
-**# README.md**# Hi 👋, I'm [Your Name]
+**# README.md**# Hi 👋, I'm Wiraldy Manggala Simanjuntak
 
-a student at [Your University/Institution].
+a student at Telkom University.
 
 - 🌱 I am an active Informatics student at Telkom University with a strong passion for Data Analytics.
 - 🌱 I am highly enthusiastic about continuously growing in the tech industry, especially in data-driven decision-making and analytics. 
