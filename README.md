@@ -1,5 +1,7 @@
 # Hi 👋, I'm Wiraldy Manggala Simanjuntak
 
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2loM3h1a2phajVwY3c0OG9nMHM2YXRrMjhnZDlnMjk4cW16eGtzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 a student at Telkom University.
 
 - 🌱 I am an active Informatics student at Telkom University with a strong passion for Data Analytics.
